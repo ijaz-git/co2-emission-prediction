@@ -1,32 +1,34 @@
-# CO2 Emission Prediction 🚗🌱  
+# CO2 Emission Prediction 🚗🌱
 
-This project predicts the CO2 emissions of cars based on their technical specifications using machine learning models.  
-
----
-
-## 🎯 Objective  
-To build machine learning models that can predict car CO2 emissions (g/km) using features like engine size, fuel consumption, and cylinders.  
+This project predicts the CO2 emissions of cars based on their technical specifications using machine learning models.
 
 ---
 
-## 🛠 Tech Stack  
-- Python (pandas, numpy, matplotlib, seaborn)  
-- scikit-learn (Linear Regression, Random Forest, SVM)  
-- Jupyter Notebook  
+## 🎯 Objective
+To build machine learning models that can predict car CO2 emissions (g/km) using features like engine size, fuel consumption, and cylinders.
 
 ---
 
-## 📊 Key Results  
-| Model | RMSE | R² Score |  
-|--------|-------|----------|  
-| Linear Regression | 286.68| 0.91|  
-| Random Forest | 2.09| 0.99 |  
-| Decision Tree| 12.31| 0.99|  
-
+## 🛠 Tech Stack
+- Python (pandas, numpy, matplotlib, seaborn)
+- scikit-learn (Linear Regression, Random Forest, SVM)
+- Jupyter Notebook
 
 ---
 
-## 📁 Project Structure  
+## 📊 Key Results
+| Model | RMSE | R² Score |
+|--------|-------|----------|
+| Linear Regression | XX | XX |
+| Random Forest | XX | XX |
+| SVM | XX | XX |
+
+👉 *Update this table with your actual metrics.*
+
+---
+
+## 📁 Project Structure
+```
 /notebooks/ → Code notebooks
 /data/ → Dataset or source link
 /images/ → Visualizations (charts, feature importance, etc.)
@@ -67,4 +69,4 @@ notebooks/CO2_prediction.ipynb
 
 ## 🙌 Author
 **Ijaz Abdul**  
-[LinkedIn](https://www.linkedin.com/in/ijazabdulgafoor)
+[LinkedIn](https://www.linkedin.com/in/your-link) | [Portfolio](#)
